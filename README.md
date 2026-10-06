@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Dhruv Kaushal
+Dhruv Kaushal
 
 ### 💻 BCA Student | Web Developer | Programmer | AI Enthusiast
 
