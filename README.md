@@ -1,4 +1,4 @@
-Dhruv Kaushal
+DHRUV KAUSHAL
 
 ### 💻 BCA Student | Web Developer | Programmer | AI Enthusiast
 
