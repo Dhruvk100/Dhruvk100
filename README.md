@@ -1,339 +1,309 @@
 
 <!-- =====================================================
-     DHRUV KAUSHAL | PERSONAL GITHUB PROFILE
-     GitHub username: Dhruvk100
-     Theme: Midnight Blue / Cyan / Mountain Night
+     DHRUV KAUSHAL | CODE ALCHEMIST
+     GitHub: https://github.com/Dhruvk100
+     Theme: Midnight Blue / Cyan / Digital Lab
      ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,45:0F2942,100:075985&text=DHRUV%20KAUSHAL&fontSize=46&fontColor=E0F2FE&fontAlignY=38&desc=Turning%20ideas%20into%20real%20projects&descSize=16&descAlignY=60&animation=fadeIn" alt="Dhruv Kaushal header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050816,45:0F2942,100:164E63&text=DHRUV%20KAUSHAL&fontSize=46&fontColor=67E8F9&fontAlignY=36&desc=THE%20CODE%20ALCHEMIST&descSize=18&descColor=E2E8F0&descAlignY=60&animation=fadeIn" width="100%" alt="Dhruv Kaushal — Code Alchemist"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=BCA+Student+%7C+Web+Developer;Learning+to+build+things+that+matter;Exploring+Code%2C+AI+and+New+Ideas;Code.+Learn.+Build.+Repeat." alt="Animated introduction"/>
+<br/>
+
+<code>HUMAN CURIOSITY × MACHINE LOGIC</code>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer.exe...;%3E+BCA+Student+%7C+Builder+in+Progress;%3E+Turning+ideas+into+digital+reality;%3E+Learning.+Experimenting.+Creating." alt="Animated developer introduction"/>
 
 <br/>
 
 <a href="https://github.com/Dhruvk100">
-  <img src="https://img.shields.io/badge/GitHub-Dhruvk100-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/OPEN_MY_CODE-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Open my code"/>
 </a>
 <a href="https://github.com/Dhruvk100?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Projects-0B1220?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/ENTER_PROJECT_LAB-0B1220?style=for-the-badge&logo=rocket&logoColor=22D3EE" alt="Project lab"/>
 </a>
 
 <br/><br/>
 
-<a href="#about">ABOUT</a> &nbsp; / &nbsp;
-<a href="#skills">SKILLS</a> &nbsp; / &nbsp;
-<a href="#projects">PROJECTS</a> &nbsp; / &nbsp;
-<a href="#stats">STATS</a> &nbsp; / &nbsp;
+<a href="#identity">IDENTITY</a> &nbsp;·&nbsp;
+<a href="#toolkit">TOOLKIT</a> &nbsp;·&nbsp;
+<a href="#telemetry">TELEMETRY</a> &nbsp;·&nbsp;
+<a href="#build-lab">BUILD LAB</a> &nbsp;·&nbsp;
 <a href="#connect">CONNECT</a>
 
 </div>
 
 ---
 
-<a id="about"></a>
+<a id="identity"></a>
+
+## `01 / IDENTITY`
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-## 01 / About Me
+### Hey, I'm Dhruv Kaushal 👋
 
-Hey! I'm **Dhruv Kaushal**, a BCA student interested in web development, programming, and artificial intelligence.
+I'm a **BCA student** passionate about web development, programming, and artificial intelligence.
 
-I enjoy learning how technology works, building websites, solving programming problems, and experimenting with new tools.
+I enjoy experimenting with technology, solving problems, and turning ideas into practical digital projects.
 
-- 🎓 Bachelor of Computer Applications (BCA)
-- 🌐 Building modern web experiences
-- 💻 Practicing programming and debugging
-- 🤖 Exploring AI tools and workflows
-- 🚀 Turning learning into real projects
+- 🎓 Bachelor of Computer Applications
+- 🌐 Building responsive web experiences
+- 💻 Exploring programming and debugging
+- 🐍 Learning through Python and C
+- 🤖 Experimenting with AI tools
+- 🚀 Working towards becoming a stronger developer
 
-**My philosophy:** Learn deeply. Build fearlessly. Improve constantly.
+**My rule:** Don't just copy the code. Understand it. Improve it. Make it yours.
 
 </td>
 <td width="35%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,c,git,github,vscode&perline=3&theme=dark" alt="My technologies"/>
-
-<br/><br/>
-
-**CURRENT MODE**
-
-`LEARNING`  
-`BUILDING`  
-`IMPROVING`
-
-</td>
-</tr>
-</table>
-
----
-
-<a id="skills"></a>
-
-## 02 / Skills & Technologies
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ◈ Web
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js&perline=2&theme=dark" alt="Web development skills"/>
-
-HTML  
-CSS  
-Tailwind CSS  
-JavaScript
-
-</td>
-<td width="33%" valign="top">
-
-### ◈ Programming
-
-<img src="https://skillicons.dev/icons?i=c,python&perline=2&theme=dark" alt="Programming skills"/>
-
-C Programming  
-Python  
-Problem Solving  
-Debugging
-
-</td>
-<td width="33%" valign="top">
-
-### ◈ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=2&theme=dark" alt="Developer tools"/>
-
-Git  
-GitHub  
-VS Code  
-AI Tools
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 / Learning Dashboard
-
-<details>
-<summary><b>🌐 Web Development</b> — Interfaces and interactions</summary>
-
-My focus is on building responsive websites and understanding how frontend technologies work together.
-
-- HTML and semantic structure
-- CSS and responsive layouts
-- Tailwind CSS utility classes
-- JavaScript and interactive interfaces
-
-</details>
-
-<details>
-<summary><b>🐍 Programming</b> — Logic and problem solving</summary>
-
-Improving programming fundamentals through practice and small projects.
-
-- C programming and debugging
-- Python scripting
-- Algorithms and logical thinking
-- Writing readable, maintainable code
-
-</details>
-
-<details>
-<summary><b>🤖 AI Exploration</b> — Tools and workflows</summary>
-
-Exploring AI tools that help with coding, learning, productivity, and application development.
-
-- AI-assisted coding
-- Prompt experimentation
-- Workflow automation
-- Ideas for AI-powered projects
-
-</details>
-
-<details>
-<summary><b>🎯 My Roadmap</b> — The next level</summary>
-
-- [ ] Strengthen JavaScript
-- [ ] Build more polished web projects
-- [ ] Develop practical Python applications
-- [ ] Learn APIs and backend development
-- [ ] Explore AI application development
-- [ ] Contribute to open source
-
-</details>
-
----
-
-<a id="projects"></a>
-
-## 04 / Project Lab
-
-<div align="center">
-
-<a href="https://github.com/Dhruvk100?tab=repositories">
-  <img src="https://img.shields.io/badge/01-WEB_EXPERIMENTS-0B1220?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="Web experiments"/>
-</a>
-<a href="https://github.com/Dhruvk100?tab=repositories">
-  <img src="https://img.shields.io/badge/02-PYTHON_LAB-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python lab"/>
-</a>
-
-<a href="https://github.com/Dhruvk100?tab=repositories">
-  <img src="https://img.shields.io/badge/03-C_PROGRAMMING-0B1220?style=for-the-badge&logo=c&logoColor=38BDF8" alt="C programming"/>
-</a>
-<a href="https://github.com/Dhruvk100?tab=repositories">
-  <img src="https://img.shields.io/badge/04-AI_EXPERIMENTS-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="AI experiments"/>
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 Web Projects
-
-Responsive websites, UI experiments, and interactive frontend applications.
-
-<a href="https://github.com/Dhruvk100?tab=repositories">Explore web repositories →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🐍 Python Projects
-
-Small applications, scripts, and programming experiments.
-
-<a href="https://github.com/Dhruvk100?tab=repositories">Explore Python repositories →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ C Programming
-
-Programming exercises, debugging challenges, and logic-building projects.
-
-<a href="https://github.com/Dhruvk100?tab=repositories">Explore C repositories →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Projects
-
-Experiments with AI tools and ideas for smarter applications.
-
-<a href="https://github.com/Dhruvk100?tab=repositories">Explore all repositories →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<a id="stats"></a>
-
-## 05 / GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Dhruvk100">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhruvk100&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Dhruvk100">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvk100&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most-used languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Dhruvk100">
-  <img width="80%" src="https://streak-stats.demolab.com?user=Dhruvk100&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contribution streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Dhruvk100">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvk100&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
-</a>
-
-</div>
-
----
-
-## 06 / Developer Console
-
-<details>
-<summary><b>Open terminal ▸</b></summary>
+### SYSTEM PROFILE
 
 ```text
-dhruv@github:~$ whoami
-
-Dhruv Kaushal
-BCA Student | Developer in Progress
-
-dhruv@github:~$ interests
-
-Web Development
-Programming
-Artificial Intelligence
-Building Useful Projects
-
-dhruv@github:~$ next
-
-Learn more.
-Build better.
-Keep going.
+USER   : Dhruvk100
+ALIAS  : Code Alchemist
+MODE   : Learning
+FOCUS  : Development
+MIND   : Curious
+STATUS : Building
 ```
+
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS_LEARNING-164E63?style=flat-square&logo=github&logoColor=67E8F9" alt="Always learning"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<a id="toolkit"></a>
+
+## `02 / THE TOOLKIT`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**01 — WEB ENGINEERING**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js&theme=dark" alt="HTML, CSS, Tailwind CSS, JavaScript"/>
+
+<sub>Interfaces · Layouts · Interactions</sub>
+
+</td>
+<td align="center" width="50%">
+
+**02 — PROGRAMMING CORE**
+
+<img src="https://skillicons.dev/icons?i=c,python&theme=dark" alt="C and Python"/>
+
+<sub>Logic · Fundamentals · Problem solving</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**03 — DEVELOPER ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
+
+<sub>Version control · Code · Workflow</sub>
+
+</td>
+<td align="center" width="50%">
+
+**04 — AI EXPLORATION**
+
+<img src="https://img.shields.io/badge/AI_TOOLS-Experimenting-164E63?style=for-the-badge&logo=openai&logoColor=67E8F9" alt="AI tools"/>
+
+<br/><br/>
+
+<sub>AI-assisted coding · Automation · Ideas</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<a id="telemetry"></a>
+
+## `03 / LIVE TELEMETRY`
+
+<div align="center">
+
+<a href="https://github.com/Dhruvk100">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruvk100&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" width="49%" alt="GitHub statistics"/>
+</a><a href="https://github.com/Dhruvk100">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvk100&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1" width="49%" alt="Most-used languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Dhruvk100">
+<img src="https://streak-stats.demolab.com?user=Dhruvk100&theme=tokyonight&hide_border=true&background=0B1220&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="75%" alt="GitHub contribution streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Dhruvk100">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvk100&bg_color=0B1220&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub activity graph"/>
+</a>
+
+</div>
+
+---
+
+<a id="build-lab"></a>
+
+## `04 / THE BUILD LAB`
+
+<blockquote>
+The best way to learn technology is to create something with it.
+</blockquote>
+
+<details>
+<summary><b>01 — WEB EXPERIMENTS</b> · HTML / CSS / Tailwind / JavaScript</summary>
+
+Building responsive interfaces, experimenting with layouts, and creating interactive websites.
+
+**Mission:** Turn frontend knowledge into polished, usable projects.
+
+<a href="https://github.com/Dhruvk100?tab=repositories">↗ EXPLORE REPOSITORIES</a>
 
 </details>
 
 <details>
-<summary><b>Open my developer principles ▸</b></summary>
+<summary><b>02 — PYTHON PLAYGROUND</b> · Automation / Logic</summary>
 
-1. Understand the problem before writing code.
-2. Learn by building, not just watching.
-3. Treat bugs as opportunities to understand.
-4. Keep projects useful and maintainable.
-5. Stay curious about emerging technology.
+Practicing Python through small applications, scripts, and useful programming experiments.
+
+**Mission:** Build tools that solve practical problems.
+
+<a href="https://github.com/Dhruvk100?tab=repositories">↗ EXPLORE REPOSITORIES</a>
 
 </details>
+
+<details>
+<summary><b>03 — C PROGRAMMING LAB</b> · Fundamentals / Debugging</summary>
+
+Strengthening programming fundamentals, debugging techniques, and logical thinking.
+
+**Mission:** Understand how programs work, not just how to write them.
+
+<a href="https://github.com/Dhruvk100?tab=repositories">↗ EXPLORE REPOSITORIES</a>
+
+</details>
+
+<details>
+<summary><b>04 — AI EXPLORATION ROOM</b> · AI Tools / Workflows</summary>
+
+Experimenting with AI-assisted development, productivity tools, and ideas for useful applications.
+
+**Mission:** Turn experiments into real projects.
+
+<a href="https://github.com/Dhruvk100?tab=repositories">↗ EXPLORE REPOSITORIES</a>
+
+</details>
+
+---
+
+## `05 / CURRENT QUESTS`
+
+| Status | Mission |
+|:---:|---|
+| `01` | Strengthen JavaScript fundamentals |
+| `02` | Build a portfolio-worthy web application |
+| `03` | Practice Python and C programming |
+| `04` | Explore APIs and backend development |
+| `05` | Experiment with AI-powered applications |
+| `06` | Contribute to open-source projects |
+
+<details>
+<summary><b>▸ Open developer roadmap</b></summary>
+
+**PHASE 01 — FOUNDATIONS**
+
+HTML, CSS, Tailwind CSS, JavaScript, Python, and C.
+
+**PHASE 02 — BUILD**
+
+Interactive websites, practical applications, Git, and GitHub.
+
+**PHASE 03 — EXPAND**
+
+APIs, backend development, databases, deployment, and AI integrations.
+
+**PHASE 04 — CONTRIBUTE**
+
+Open-source work, collaboration, and projects that solve real problems.
+
+</details>
+
+---
+
+## `06 / DEVELOPER PHILOSOPHY`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming quote"/>
+
+<br/><br/>
+
+```text
+while (curious) {
+    learn();
+    experiment();
+    build();
+    improve();
+}
+```
+
+<br/>
+
+<code>ITERATION IS THE PATH TO MASTERY.</code>
+
+</div>
 
 ---
 
 <a id="connect"></a>
 
-## 07 / Let's Connect
+## `07 / ESTABLISH CONNECTION`
 
 <div align="center">
 
-Have an interesting idea, a project to share, or something new to learn?
-
-<a href="https://github.com/Dhruvk100">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
-</a>
-
-<!-- Replace the placeholders below with your real profile links. -->
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/>
-</a>
+Have an interesting idea, a project to share, or something worth building?
 
 <br/><br/>
 
-**CODE. LEARN. BUILD. REPEAT.**
+<a href="https://github.com/Dhruvk100">
+<img src="https://img.shields.io/badge/GITHUB-Follow_My_Journey-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
+</a>
+<a href="https://github.com/Dhruvk100?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-Explore_My_Work-0B1220?style=for-the-badge&logo=rocket&logoColor=22D3EE" alt="Projects"/>
+</a>
 
-<sub>Designed with curiosity · Built one commit at a time.</sub>
+<!-- Add your real LinkedIn profile and email when ready. -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:0F2942,100:020617&height=100&section=footer" alt="Footer"/>
+<br/><br/>
+
+**BUILD SOMETHING THAT MATTERS.**
+
+<code>EOF // END OF PROFILE, NOT THE JOURNEY.</code>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0F2942,100:050816&height=110&section=footer" width="100%" alt="Midnight blue footer"/>
 
 </div>
